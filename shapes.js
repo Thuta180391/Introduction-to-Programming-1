@@ -29,15 +29,7 @@ function draw()
     rect(100,100,30,30);
 }
     
-// function setup()
-// {
-// createCanvas(500,500);
-// }
-// function draw()
-// {
-//     rect(100,100,30,40);
-//     rect(200,100,30,40);
-// }
+
 
     
 
